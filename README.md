@@ -11,4 +11,4 @@ WordPress-плагин для резервного копирования и у�
 Gabulin © 2025
 
 ## Скачать
-[Скачать версию v1.0 (.zip)](https://github.com/Gabulin/thumbnail-cleaner-backup/archive/refs/tags/v1.0.zip)
+[Скачать версию v1.0 (.zip)](https://github.com/Gabulin/thumbnail-cleaner-backup/releases/download/v1.0/thumbnail-cleaner-backup.zip)
